@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "org.nativescript.idyasppreview",
+    "sha256_cert_fingerprints":
+    ["D3:25:9F:33:F7:84:8A:03:44:30:EB:DC:9F:C1:CD:BF:1F:7E:D4:2C:96:18:70:AE:B1:DD:08:77:53:0A:CC:A0"]
+  }
+}]
